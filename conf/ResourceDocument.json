@@ -1,0 +1,52 @@
+{
+    "resourcedocument": [
+        {
+            "resource": {
+                "type": "dtd",
+                "content": "",
+                "sourceUrl": "myCoolGlobalResource"
+            },
+            "properties": {
+                "property": [
+                    {
+                        "key": "description",
+                        "stringValue": {
+                            "value": "myCoolGlobalResource"
+                        }
+                    },
+                    {
+                        "key": "publicIdentifier",
+                        "stringValue": {
+                            "value": "myCoolGlobalResource"
+                        }
+                    }
+                ]
+            },
+            "id": "c7960f9a320a1772f1465776ea09da68"
+        },
+        {
+            "resource": {
+                "type": "dtd",
+                "content": "",
+                "sourceUrl": "myCoolGlobalResource2"
+            },
+            "properties": {
+                "property": [
+                    {
+                        "key": "description",
+                        "stringValue": {
+                            "value": "myCoolGlobalResource2"
+                        }
+                    },
+                    {
+                        "key": "publicIdentifier",
+                        "stringValue": {
+                            "value": "myCoolGlobalResource2"
+                        }
+                    }
+                ]
+            },
+            "id": "c7960f9a320a1772f1465776ea09da6e"
+        }
+    ]
+}
